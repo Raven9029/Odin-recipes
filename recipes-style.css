@@ -6,3 +6,17 @@ body {
 ul {
     color: red;
 }
+
+
+.description_bx {
+    border: 5px solid green;
+    padding: 20px;
+}
+
+
+.ingredients_bx, .steps_bx {
+
+    border: 5px solid green;
+    padding: 30px;
+}
+
