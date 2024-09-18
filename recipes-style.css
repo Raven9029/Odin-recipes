@@ -3,14 +3,12 @@ body {
     background-color: lightskyblue;
 }
 
-ul {
-    color: red;
-}
-
 
 .description_bx {
     border: 5px solid green;
     padding: 20px;
+    font-size: large;
+    color: blueviolet;
 }
 
 
@@ -18,5 +16,7 @@ ul {
 
     border: 5px solid green;
     padding: 30px;
+    font-size: large;
+    color: red;
 }
 
