@@ -1,20 +1,18 @@
 body {
-    background-color: lightskyblue;
+    background-color: rgb(137, 205, 247);
     
 }
 
 h1, img {
-    
+
     text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
-   
 }
 
-
 .description_bx {
-    border: 5px solid green;
+    border: 5px solid rgb(0, 154, 0);
     padding: 20px;
     font-size: large;
     color: blueviolet;
@@ -23,8 +21,8 @@ h1, img {
 
 .ingredients_bx, .steps_bx {
 
-    border: 5px solid green;
+    border: 5px solid rgb(0, 154, 0);
     padding: 30px;
     font-size: large;
-    color: red;
+    color: rgb(176, 4, 4);
 }
